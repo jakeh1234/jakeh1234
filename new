@@ -1,0 +1,11 @@
+if client = user (jakeh1234)
+send = user.delete
+
+{] 
+
+exit -- run
+brand (1)
+ -- - - - 
+brand (close)
+if
+-
