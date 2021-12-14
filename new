@@ -1,11 +1,6 @@
-if client = user (jakeh1234)
-send = user.delete
-
-{] 
-
-exit -- run
-brand (1)
- -- - - - 
-brand (close)
-if
--
+when (function(Button.Press = active )client
+)
+change "(function") client( name = Clicked
+when(
+)funciton 'clicked'
+active = )clicked( = run = (program)
